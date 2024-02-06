@@ -12,3 +12,7 @@ def print_sum():
 
 print_sum()
 
+# комментарий
+
+name = """aaa"""
+name = '''aaa'''
